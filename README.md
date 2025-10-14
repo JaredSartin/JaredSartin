@@ -1,4 +1,11 @@
-## Hi there 👋
+## About Me
+*Project & Engineering Lead/Manager | UI/UX Focus | Ex Sony, Ex Cryptic Studios*
+
+I build UI for games, manage people, and create random reusable tools.
+
+- 🔭 I’m currently looking for my next role
+- 💬 Ask me about games and web UI in games
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jsartin)
 
 <!--
 **JaredSartin/JaredSartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
