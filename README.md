@@ -1,7 +1,7 @@
 ## About Me
 *Project & Engineering Lead/Manager | UI/UX Focus | Ex Sony, Ex Cryptic Studios*
 
-I build UI for games, manage people, and create random reusable tools.
+I build UI for games, manage people, and create random reusable tools. Currently, much of that is under NDA! Will share more here when I can.
 
 - 🔭 I’m currently looking for my next role
 - 💬 Ask me about games and web UI in games
