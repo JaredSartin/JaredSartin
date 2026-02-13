@@ -1,9 +1,8 @@
 ## About Me
-*Project & Engineering Lead/Manager | UI/UX Focus | Ex Sony, Ex Cryptic Studios*
+*Front End Engineer | Project & Engineering Lead/Manager | UI/UX Focus | Ex Sony, Ex Cryptic Studios, Ex Stoic*
 
 I build UI for games, manage people, and create random reusable tools. Currently, much of that is under NDA! Will share more here when I can.
-
-- 🔭 I’m currently looking for my next role
+- 🔭 I’m currently working on a new web SPA framework and a couple personal game projects using Lua
 - 💬 Ask me about games and web UI in games
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jsartin)
 
